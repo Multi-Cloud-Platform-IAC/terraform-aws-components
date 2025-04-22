@@ -1,21 +1,20 @@
-## what
+# 🚫 Pull Requests Are No Longer Accepted
 
-<!--
-- Describe high-level what changed as a result of these commits (i.e. in plain-english, what do these changes mean?)
-- Use bullet points to be concise and to the point.
--->
+> [!WARNING]
+> ## This Repository Has Migrated!
+> All components have been migrated to the [Cloud Posse Terraform Components GitHub organization](https://github.com/cloudposse-terraform-components).  
+>  
+> **Please open pull requests there instead.**
 
-## why
 
-<!--
-- Provide the justifications for the changes (e.g. business case).
-- Describe why these changes were made (e.g. why do these commits fix the problem?)
-- Use bullet points to be concise and to the point.
--->
 
-## references
+## ✅  What to Do Instead
+1. Identify the individual component(s) related to your change.
+2. Look up its repository in the [Terraform Components organization](https://github.com/cloudposse-terraform-components).
+3. Submit your pull request against the new component repository.
 
-<!--
-- Link to any supporting github issues or helpful documentation to add some context (e.g. stackoverflow).
-- Use `closes #123`, if this PR closes a GitHub issue `#123`
--->
+For more information about this migration, see the [official announcement and migration details](https://docs.cloudposse.com/blog/terraform-components-have-moved/).
+
+Thank you for all the contributions and your continued support!
+
+— The Cloud Posse Team
